@@ -10,7 +10,7 @@ title: Downloads
   <audio id="ID098" source src="assets/audio/page_98_ex_1.mp3"></audio>
   стр.98, упр.1&nbsp;
   <button onclick="playAudio('ID098')" type="button">слушать</button>
-  <button onclick="window.location.href='assets/audio/page_98_ex_1.mp3'">скачать</button>
+  &nbsp;<a href='assets/audio/page_98_ex_1.mp3' download>скачать</a>
 </p>
 
 <script>
