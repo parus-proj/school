@@ -13,6 +13,13 @@ title: Downloads
   &nbsp;<a href='assets/audio/page_98_ex_1.mp3' download>скачать</a>
 </p>
 
+<p>
+  <audio id="ID105" source src="assets/audio/page_105_ex_5_6.mp3"></audio>
+  стр.105, упр.5-6&nbsp;
+  <button onclick="playAudio('ID105')" type="button">слушать</button>
+  &nbsp;<a href='assets/audio/page_105_ex_5_6.mp3' download>скачать</a>
+</p>
+
 <script>
 function playAudio(audio_element) {
 	var x = document.getElementById(audio_element);
